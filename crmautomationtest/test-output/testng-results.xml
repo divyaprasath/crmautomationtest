@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="107889" started-at="2019-04-30T01:25:46Z" finished-at="2019-04-30T01:27:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="107889" started-at="2019-04-30T01:25:46Z" finished-at="2019-04-30T01:27:34Z">
+      <class name="com.crm.qa.testpages.ContactPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testpages.ContactPageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="12295" started-at="2019-04-29T18:25:46Z" finished-at="2019-04-29T18:25:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnContactLinkTest()[pri:1, instance:com.crm.qa.testpages.ContactPageTest@77caeb3e]" name="clickOnContactLinkTest" duration-ms="1768" started-at="2019-04-29T18:25:59Z" finished-at="2019-04-29T18:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnContactLinkTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testpages.ContactPageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="11368" started-at="2019-04-29T18:26:00Z" finished-at="2019-04-29T18:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyContactIconTest()[pri:2, instance:com.crm.qa.testpages.ContactPageTest@77caeb3e]" name="verifyContactIconTest" duration-ms="205" started-at="2019-04-29T18:26:12Z" finished-at="2019-04-29T18:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactIconTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testpages.ContactPageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="11616" started-at="2019-04-29T18:26:13Z" finished-at="2019-04-29T18:26:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateNewContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testpages.ContactPageTest@77caeb3e]" name="validateCreateNewContact" duration-ms="3243" started-at="2019-04-29T18:26:25Z" data-provider="getCrmTestData" finished-at="2019-04-29T18:26:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Divya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[r]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WhiteBoxLearning]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Stardivyard@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewContact -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testpages.ContactPageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="11800" started-at="2019-04-29T18:26:28Z" finished-at="2019-04-29T18:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateNewContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testpages.ContactPageTest@77caeb3e]" name="validateCreateNewContact" duration-ms="2566" started-at="2019-04-29T18:26:40Z" data-provider="getCrmTestData" finished-at="2019-04-29T18:26:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Prasath]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[l]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[CTS]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Pral@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewContact -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testpages.ContactPageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="13449" started-at="2019-04-29T18:26:42Z" finished-at="2019-04-29T18:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateNewContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testpages.ContactPageTest@77caeb3e]" name="validateCreateNewContact" duration-ms="2565" started-at="2019-04-29T18:26:56Z" data-provider="getCrmTestData" finished-at="2019-04-29T18:26:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jasswanth]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[p]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Google]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jas@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewContact -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testpages.ContactPageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="13521" started-at="2019-04-29T18:26:58Z" finished-at="2019-04-29T18:27:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateNewContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testpages.ContactPageTest@77caeb3e]" name="validateCreateNewContact" duration-ms="3932" started-at="2019-04-29T18:27:12Z" data-provider="getCrmTestData" finished-at="2019-04-29T18:27:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pavithra]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[p]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WhiteBoxLearning]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[pav@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewContact -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testpages.ContactPageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="12042" started-at="2019-04-29T18:27:16Z" finished-at="2019-04-29T18:27:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateNewContact(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.crm.qa.testpages.ContactPageTest@77caeb3e]" name="validateCreateNewContact" duration-ms="6301" started-at="2019-04-29T18:27:28Z" data-provider="getCrmTestData" finished-at="2019-04-29T18:27:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ranjami]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[l]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[WhiteBoxLearning]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[rajani@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewContact -->
+      </class> <!-- com.crm.qa.testpages.ContactPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
